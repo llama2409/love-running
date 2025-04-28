@@ -83,12 +83,13 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
     }
-    
+
 /* Main content */
 main {
   background-color: lightblue;
   /* This allows the main content to grow and fill the available space */
   flex: 1 0 auto;
+  margin-top: 47px;
 }
 
 /* Footer */
